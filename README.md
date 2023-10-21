@@ -7,7 +7,7 @@ Este projeto tem como objetivo desenvolver um modelo robusto de aprendizado de m
 ## Destaques do Projeto
 
 - Implementou várias técnicas e algoritmos de aprendizado de máquina para construir e avaliar modelos de detecção de spam.
-- Escolheu o modelo de Regressão Logística devido ao seu desempenho excepcional em termos de falsos positivos.
+- Escolheu o modelo de Regressão Logística devido ao seu ótimo desempenho em termos de falsos positivos.
 - Alcançou um resultado notável com apenas 8 casos de falsos positivos no modelo final.
 - Demonstrou a importância de reduzir os falsos positivos para melhorar a experiência do usuário e a credibilidade do sistema.
 
